@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    background-image: 
+    url(https://th.bing.com/th/id/R.39985080af2888ac0a9137eaa4628752?rik=dznS%2bJUzMGICLg&pid=ImgRaw&r=0) ;
+
+.conteneur{width: 800px;
+        margin: auto;
+        background-color: black;}
+
+}.Menu {
+    width: 700px;
+    margin: auto;
+    padding: 40px;
+}
+h1 {color: rgb(235, 232, 84);
+    font-size: 60px;
+    text-align: center;
+    font-style: italic;
+    font-family: fantasy;}
+
+a{font-size: 30px;
+font-weight: bold;
+font-family:fantasy;
+}    
+
+.image1{
+    display: flex;
+    justify-content: center;
+   }
+
+.Menubas{
+text-align: center;
+margin: 30px;
+}
+
